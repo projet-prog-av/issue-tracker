@@ -5,7 +5,7 @@ This repo purpose is to track all your issues and fit the needs of distance teac
 There are several reports you can use:
 
 - bug report: 
-My game is not working, help me. 
+My game is not working, help me. (fix compilation warnings before asking)
 
 - technical question:
 How to use that specific function. (Search the doc before asking)
