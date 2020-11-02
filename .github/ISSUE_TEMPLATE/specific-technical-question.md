@@ -2,7 +2,7 @@
 name: Specific technical question
 about: 'Ask a specific question about a technical issue you need to overcome. '
 title: "[TECH] How to use fonction X from lib Y"
-labels: ''
+labels: question
 assignees: Virgile-Dauge
 
 ---
